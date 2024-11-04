@@ -1,0 +1,13 @@
+{
+  "mode": "service",
+  "service_name": "momin-backend-dev",
+  "http_port": 3000,
+  "db": {
+    "host": "localhost",
+    "port": "5432",
+    "dbName": "momin",
+    "sslMode": "disable",
+    "user": "admin",
+    "password": "admin"
+  }
+}

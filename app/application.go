@@ -9,3 +9,7 @@ type Application struct {
 func NewApplication() *Application {
 	return &Application{}
 }
+
+func (r *Application) Init() {
+
+}
